@@ -11,5 +11,5 @@ module.exports = boilerplate;
  */
 
 function boilerplate() {
-  return true;
+  return 'yes';
 }

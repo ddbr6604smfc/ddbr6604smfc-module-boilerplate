@@ -3,6 +3,6 @@ var should = require('should');
 
 describe('boilerplate', () => {
   it('should return true' ,() => {
-    boilerplate().should.be.true();
+    boilerplate().should.be.equal('yes');
   });
 });
