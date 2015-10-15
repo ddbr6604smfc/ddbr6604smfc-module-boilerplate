@@ -1,0 +1,21 @@
+{
+  "name": "ddbr6604smfc-module-boilerplate",
+  "version": "1.0.0",
+  "description": "a module boilerplate",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddbr6604smfc/ddbr6604smfc-module-boilerplate.git"
+  },
+  "keywords": [
+    "module",
+    "boilerplate"
+  ],
+  "author": "ddbr6604smfc <ddbr6604smfc@gmail.com> (https://ddbr6604smfc@github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddbr6604smfc/ddbr6604smfc-module-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ddbr6604smfc/ddbr6604smfc-module-boilerplate#readme"
+}
