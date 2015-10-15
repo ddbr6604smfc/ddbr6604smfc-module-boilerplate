@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ddbr6604smfc/ddbr6604smfc-module-boilerplate.git"
+    "url": "git+https://github.com/ddbr6604smfc/module-boilerplate.git"
   },
   "keywords": [
     "module",
@@ -17,9 +17,9 @@
   "author": "ddbr6604smfc <ddbr6604smfc@gmail.com> (https://ddbr6604smfc@github.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ddbr6604smfc/ddbr6604smfc-module-boilerplate/issues"
+    "url": "https://github.com/ddbr6604smfc/module-boilerplate/issues"
   },
-  "homepage": "https://github.com/ddbr6604smfc/ddbr6604smfc-module-boilerplate#readme",
+  "homepage": "https://github.com/ddbr6604smfc/module-boilerplate#readme",
   "devDependencies": {
     "mocha": "^2.3.3",
     "should": "^7.1.0"
